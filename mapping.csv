@@ -1,0 +1,50 @@
+Power	2	0x66	KEY_POWER
+AV	3	0x63	#
+0	1	0x30	KEY_0
+1	1	0x31	KEY_1
+2	1	0x32	KEY_2
+3	1	0x33	KEY_3
+4	1	0x34	KEY_4
+5	1	0x35	KEY_5
+6	1	0x36	KEY_6
+7	1	0x37	KEY_7
+8	1	0x38	KEY_8
+9	1	0x39	KEY_9
+Up	2	0x52	KEY_UP
+Down	2	0x51	KEY_DOWN
+Left	2	0x50	KEY_LEFT
+Right	2	0x4f	KEY_RIGHT
+OK	2	0x28	KEY_OK
+Back	2	0x2a	KEY_BACK
+Search	3	0x221	KEY_BLUE
+Menu	4	0x08	KEY_GREEN
+Info	3	0x209	KEY_YELLOW
+Backspace	3	0x204	KEY_RED
+Vol +	3	0xe9	KEY_VOLUMEUP
+Vol -	3	0xea	KEY_VOLUMEDOWN
+Mute	3	0xe2	KEY_MUTE
+Record	3	0xb2	KEY_RECORD
+Prog +	3	0x9c	KEY_CHANNELUP
+Prog -	3	0x9d	KEY_CHANNELDOWN
+Rewind	3	0xb4	KEY_REWIND
+Play	3	0xb0	KEY_PLAY
+Pause	3	0xb1	KEY_PAUSE
+Fast Forward	3	0xb3	KEY_FORWARD
+Stream debug	3	0x60	#
+Stop	3	0xb7	KEY_STOP
+Random/Shuffle	3	0xb9	#
+Next	3	0xb5	KEY_NEXT
+Prev	3	0xb6	KEY_AGAIN
+Zoom IN	3	0x22d	#
+Zoom OUT	3	0x22e	#
+Browser Back	3	0x224	#
+Browser Formward	3	0x225	#
+Browser Refresh	3	0x227	#
+Browser Stop	3	0x226	#
+Next video track	3	0x171	#
+Next audio track	3	0x173	#
+Next subtitle track	3	0x175	#
+Hibernate	4	0x82	#
+Wake-up	4	0x83	#
+Eject disk	3	0xb8	#
+Task manager	3	0x18f	KEY_HOME

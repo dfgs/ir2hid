@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1451228253 source:/home/dfgs/Projets/ir2hid/main.c
+	"browser.h"
+	<logger.h>
+	<stdio.h>
+	<stdlib.h>
+	"remote.h"
+	<unistd.h>
+	<signal.h>
+
+1451227488 source:/home/dfgs/Projets/ir2hid/browser.c
+	<config.h>
+	<logger.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<stdlib.h>
+	<time.h>
+	<avahi-client/client.h>
+	<avahi-client/lookup.h>
+	<avahi-common/simple-watch.h>
+	<avahi-common/malloc.h>
+	<avahi-common/error.h>
+	"browser.h"
+	"remote.h"
+
+1451064903 /usr/include/logger/logger.h
+
+1451227114 /home/dfgs/Projets/ir2hid/browser.h
+
+1451169206 /home/dfgs/Projets/ir2hid/remote.h
+
+1451244700 source:/home/dfgs/Projets/ir2hid/remote.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+	<ela/ela.h>
+	<ela/backend.h>
+	<sys/unistd.h>
+	<termio.h>
+	<foils/hid.h>
+	<foils/hid_device.h>
+	<logger/logger.h>
+	<fcntl.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/un.h>
+	<errno.h>
+	"remote.h"
+
+1450995335 /usr/local/include/ela/ela.h
+	<stdint.h>
+	<sys/time.h>
+
+1450995335 /usr/local/include/ela/backend.h
+	<ela/ela.h>
+
+1450954829 /usr/local/include/foils/hid.h
+	<rudp/rudp.h>
+	<rudp/client.h>
+	<foils/rudp_hid_client.h>
+
+1450995489 /usr/local/include/rudp/rudp.h
+	<stdarg.h>
+	<stdlib.h>
+	<stdint.h>
+	<rudp/list.h>
+	<rudp/error.h>
+	<rudp/compiler.h>
+
+1450995489 /usr/local/include/rudp/list.h
+
+1450995489 /usr/local/include/rudp/error.h
+	<rudp/compiler.h>
+
+1450995489 /usr/local/include/rudp/compiler.h
+
+1450995489 /usr/local/include/rudp/client.h
+	<rudp/list.h>
+	<rudp/compiler.h>
+	<rudp/endpoint.h>
+	<rudp/address.h>
+	<rudp/packet.h>
+	<rudp/peer.h>
+	<ela/ela.h>
+
+1450995489 /usr/local/include/rudp/endpoint.h
+	<rudp/address.h>
+	<ela/ela.h>
+	<rudp/compiler.h>
+
+1450995489 /usr/local/include/rudp/address.h
+	<rudp/error.h>
+	<rudp/compiler.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<inttypes.h>
+
+1450995489 /usr/local/include/rudp/packet.h
+	<stdint.h>
+	<stdlib.h>
+	<rudp/list.h>
+	<rudp/compiler.h>
+
+1450995489 /usr/local/include/rudp/peer.h
+	<rudp/time.h>
+	<rudp/list.h>
+	<rudp/address.h>
+	<rudp/compiler.h>
+
+1450995489 /usr/local/include/rudp/time.h
+	<stdint.h>
+	<sys/time.h>
+	<stdlib.h>
+
+1450954829 /usr/local/include/foils/rudp_hid_client.h
+	<foils/hid_device.h>
+	<rudp/client.h>
+	<stdint.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
+1450954829 /usr/local/include/foils/hid_device.h
+	<stdint.h>
+	<sys/types.h>
+

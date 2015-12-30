@@ -1,0 +1,61 @@
+Dec 29 13:45:04 pc-dfgs lircd: Notice: Running as user lirc
+Dec 29 13:45:04 pc-dfgs lircd: Info: Using remote: mceusb.
+Dec 29 13:45:04 pc-dfgs lircd: Info: Using remote: mceusb_hauppauge.
+Dec 29 13:45:04 pc-dfgs lircd: Info: Using remote: vista_mce.
+Dec 29 13:45:04 pc-dfgs lircd: Info: Using remote: test.conf.
+Dec 29 13:45:04 pc-dfgs lircd: Notice: lircd(default) ready, using /var/run/lirc/lircd
+Dec 29 13:45:28 pc-dfgs lircd: Notice: accepted new client on /var/run/lirc/lircd
+Dec 29 13:45:28 pc-dfgs lircd: Error: could not open /dev/lirc0
+Dec 29 13:45:28 pc-dfgs lircd: Error: default_init(): Permission denied
+Dec 29 13:45:28 pc-dfgs lircd: Warning: Failed to initialize hardware
+Dec 29 13:45:29 pc-dfgs lircd: Error: could not open /dev/lirc0
+Dec 29 13:45:29 pc-dfgs lircd: Error: default_init(): Permission denied
+Dec 29 13:45:30 pc-dfgs lircd: Error: could not open /dev/lirc0
+Dec 29 13:45:30 pc-dfgs lircd: Error: default_init(): Permission denied
+Dec 29 13:45:31 pc-dfgs lircd: Error: could not open /dev/lirc0
+Dec 29 13:45:31 pc-dfgs lircd: Error: default_init(): Permission denied
+Dec 29 13:45:32 pc-dfgs lircd: Error: could not open /dev/lirc0
+Dec 29 13:45:32 pc-dfgs lircd: Error: default_init(): Permission denied
+Dec 29 13:45:33 pc-dfgs lircd: Error: could not open /dev/lirc0
+Dec 29 13:45:33 pc-dfgs lircd: Error: default_init(): Permission denied
+Dec 29 13:45:33 pc-dfgs lircd: Info: removed client
+Dec 29 13:46:02 pc-dfgs lircd: Notice: caught signal
+Dec 29 13:46:54 pc-dfgs lircd: Info: Initial device: /dev/lirc0
+Dec 29 13:46:54 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:46:54 pc-dfgs lircd: Info: Initial device: /dev/lirc0
+Dec 29 13:46:54 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:46:54 pc-dfgs lircd: Warning: Running as root
+Dec 29 13:46:54 pc-dfgs lircd: Warning: config file /usr/local/etc/lirc/lircd.conf contains no valid remote control definition
+Dec 29 13:46:54 pc-dfgs lircd: Notice: lircd(default) ready, using /var/run/lirc/lircd
+Dec 29 13:47:10 pc-dfgs lircd: Notice: accepted new client on /var/run/lirc/lircd
+Dec 29 13:47:10 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:47:19 pc-dfgs lircd: Info: removed client
+Dec 29 13:48:06 pc-dfgs lircd: Notice: caught signal
+Dec 29 13:48:55 pc-dfgs lircd: Info: Initial device: /dev/lirc0
+Dec 29 13:48:55 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:48:55 pc-dfgs lircd: Info: Initial device: /dev/lirc0
+Dec 29 13:48:55 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:48:55 pc-dfgs lircd: Warning: Running as root
+Dec 29 13:48:55 pc-dfgs lircd: Info: Using remote: mceusb.
+Dec 29 13:48:55 pc-dfgs lircd: Warning: /etc/lirc/lircd.conf.d/lircd.conf: mceusb: Duplicate codes: KEY_TV
+Dec 29 13:48:55 pc-dfgs lircd: Warning: /etc/lirc/lircd.conf.d/lircd.conf: mceusb: Duplicate codes: KEY_RECORD
+Dec 29 13:48:55 pc-dfgs lircd: Info: Using remote: mceusb_hauppauge.
+Dec 29 13:48:55 pc-dfgs lircd: Warning: /etc/lirc/lircd.conf.d/lircd.conf: mceusb_hauppauge: Duplicate codes: KEY_RECORD
+Dec 29 13:48:55 pc-dfgs lircd: Warning: /etc/lirc/lircd.conf.d/lircd.conf: mceusb_hauppauge: Duplicate codes: KEY_TV
+Dec 29 13:48:55 pc-dfgs lircd: Info: Using remote: vista_mce.
+Dec 29 13:48:55 pc-dfgs lircd: Warning: /etc/lirc/lircd.conf.d/lircd.conf: vista_mce: Duplicate codes: KEY_PLAY
+Dec 29 13:48:55 pc-dfgs lircd: Warning: /etc/lirc/lircd.conf.d/lircd.conf: vista_mce: Duplicate codes: KEY_RECORD
+Dec 29 13:48:55 pc-dfgs lircd: Info: Using remote: test.conf.
+Dec 29 13:48:55 pc-dfgs lircd: Notice: lircd(default) ready, using /var/run/lirc/lircd
+Dec 29 13:49:12 pc-dfgs lircd: Notice: accepted new client on /var/run/lirc/lircd
+Dec 29 13:49:12 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:49:19 pc-dfgs lircd: Info: removed client
+Dec 29 13:50:49 pc-dfgs lircd: Notice: accepted new client on /var/run/lirc/lircd
+Dec 29 13:50:49 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:54:26 pc-dfgs lircd: Info: removed client
+Dec 29 13:57:24 pc-dfgs lircd: Notice: accepted new client on /var/run/lirc/lircd
+Dec 29 13:57:24 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 13:57:32 pc-dfgs lircd: Info: removed client
+Dec 29 13:58:23 pc-dfgs lircd: Notice: accepted new client on /var/run/lirc/lircd
+Dec 29 13:58:23 pc-dfgs lircd: Notice: 'lirc' written to protocols file /sys/class/rc/rc0/protocols
+Dec 29 14:00:43 pc-dfgs lircd: Info: removed client
